@@ -1,4 +1,4 @@
-# ZoionNET: Low-Power Animal Intrusion Detection System
+q# ZoionNET: Low-Power Animal Intrusion Detection System
 
 ## Project Overview
 
@@ -33,6 +33,7 @@ The ZoionNET employs a sophisticated two-model approach for animal intrusion det
     3. Elephant
     4. Monkey
   - Classification accuracy of 94.6%
+-**Dataset**: https://www.kaggle.com/datasets/shubham1101singhal/data-lists
 
 ### Key Technical Features
 
