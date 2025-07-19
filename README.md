@@ -36,7 +36,7 @@ ZoionNET employs a sophisticated two-model approach for animal intrusion detecti
 
 ### Dataset
 
-Kaggle Dataset: [https://www.kaggle.com/datasets/shubham1101singhal/data-lists](https://www.kaggle.com/datasets/shubham1101singhal/data-lists)
+Dataset: [https://www.kaggle.com/datasets/shubham1101singhal/data-lists](https://www.kaggle.com/datasets/shubham1101singhal/data-lists)
 
 ### Key Technical Features
 
