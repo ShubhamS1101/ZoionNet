@@ -34,9 +34,6 @@ ZoionNET employs a sophisticated two-model approach for animal intrusion detecti
     4. Monkey  
   - Classification accuracy of 94.6%
 
-### Dataset
-
-Dataset: [https://www.kaggle.com/datasets/shubham1101singhal/data-lists](https://www.kaggle.com/datasets/shubham1101singhal/data-lists)
 
 ### Key Technical Features
 
